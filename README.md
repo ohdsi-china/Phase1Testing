@@ -1,8 +1,8 @@
 # Phase1Testing
 OHDSI中文医学术语库第一期的测试
 
-* 测试代码提交截止日期 2018年4月15日
- * 测试代码映射提交截止日期 2018年5月15日
+* 测试代码提交截止日期 2018年4月15日 (Required)
+ * 测试代码映射提交截止日期 2018年5月15日 (Optional)
 
 ## OHDSI中文医学术语库第一期的测试方案
 * https://github.com/ohdsi-china/Phase1Testing/blob/master/ohdsi-voc-cdm-template-21080326-v2.0.pdf
