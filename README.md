@@ -19,7 +19,7 @@ OHDSI中文医学术语库第一期的测试
 
 ###药品
 
-* https://github.com/ohdsi-china/Phase1Testing/blob/master/ohdsi-nccd-20180410.zip
+* https://github.com/ohdsi-china/Phase1Testing/blob/master/ohdsi-nccd-20180410.rar
 
 ###临床检验
 
